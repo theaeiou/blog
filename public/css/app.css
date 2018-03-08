@@ -1309,7 +1309,7 @@ html {
 }
 
 body {
-  font-family: Raleway, sans-serif;
+  font-family: Mitr, sans-serif;
   font-size: 14px;
   line-height: 1.6;
   color: #636b6f;
@@ -5054,7 +5054,7 @@ a.badge:focus, a.badge:hover {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  background-color: #eee
+  background-color: #fff
 }
 
 .jumbotron, .jumbotron .h1, .jumbotron h1 {
@@ -6087,7 +6087,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: Raleway, sans-serif;
+  font-family: Mitr, sans-serif;
   font-style: normal;
   font-weight: 400;
   letter-spacing: normal;
@@ -6220,7 +6220,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: Raleway, sans-serif;
+  font-family: Mitr, sans-serif;
   font-style: normal;
   font-weight: 400;
   letter-spacing: normal;
